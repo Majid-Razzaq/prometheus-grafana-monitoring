@@ -64,16 +64,14 @@ It helps to monitor system performance like CPU usage, memory usage, disk usage,
 
 ## Screenshots
 
-Add your screenshots in a folder named:
-
 ```
-screenshots/Grafana.png
+ScreenShots/Grafana.png
 ```
 ```
-screenshots/node-exporter.png
+ScreenShots/node-exporter.png
 ```
 ```
-screenshots/prometheus.png
+ScreenShots/prometheus.png
 ```
 
 Then include:
