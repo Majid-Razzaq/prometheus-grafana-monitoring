@@ -56,23 +56,18 @@ It helps to monitor system performance like CPU usage, memory usage, disk usage,
 
 ## Live URLs
 
-* Node Exporter: [http://localhost:9100/metrics](http://localhost:9100/metrics)
-* Prometheus: [http://localhost:9090](http://localhost:9090)
-* Grafana: [http://localhost:3000](http://localhost:3000)
+* Node Exporter: [http://localhost:9100/metrics]
+* Prometheus: [http://localhost:9090]
+* Grafana: [http://localhost:3000]
 
 ---
 
 ## Screenshots
 
 ```
-ScreenShots/Grafana.png
-```
-```
-ScreenShots/node-exporter.png
-```
-```
-ScreenShots/prometheus.png
-```
+<img width="1917" height="953" alt="Grafana" src="https://github.com/user-attachments/assets/990100e5-3a0d-4904-93f1-0edc3e504e1d" />
+```<img width="1920" height="964" alt="prometheus" src="https://github.com/user-attachments/assets/308ceb9b-3342-4927-b6fb-e65f3d5e6e75" />
+<img width="1920" height="940" alt="node-exporter" src="https://github.com/user-attachments/assets/309c2563-9ac7-495b-a1a2-2272f9ef3225" />
 
 Then include:
 
