@@ -67,7 +67,13 @@ It helps to monitor system performance like CPU usage, memory usage, disk usage,
 Add your screenshots in a folder named:
 
 ```
-screenshots/
+screenshots/Grafana.png
+```
+```
+screenshots/node-exporter.png
+```
+```
+screenshots/prometheus.png
 ```
 
 Then include:
